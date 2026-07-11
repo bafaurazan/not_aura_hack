@@ -1,6 +1,6 @@
 # Not Aura — Immersive Robot Teleoperation
 
-> **United Hacks V7 · General Track**
+> **Hackathon project**
 
 Not Aura is an experimental telepresence system that turns natural head and hand
 movement into real-time control of a remote Unitree G1 humanoid. XREAL glasses,
